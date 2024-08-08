@@ -1,1 +1,13 @@
 tmp
+.env
+node_modules
+
+
+
+*.ext
+*.out
+*.log
+
+.DS_Store
+
+/bin/
